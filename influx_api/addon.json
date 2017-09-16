@@ -1,0 +1,11 @@
+{
+	"title"		:	"Influx API",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
